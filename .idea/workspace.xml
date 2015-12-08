@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aee18b83-0554-489c-8713-24f20fe3f6f9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/flow-checkpoint.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/flow.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/single-layer-checkpoint.ipynb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/single-layer.ipynb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.ipynb_checkpoints/flow-checkpoint.ipynb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flow.ipynb" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tensorflow.iws" />
@@ -479,7 +481,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449614288269</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Finished MP, moving on.">
+      <created>1449614357016</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1449614357016</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -523,7 +531,8 @@
     <MESSAGE value="Beginning convolutional network" />
     <MESSAGE value="convolutional network finished" />
     <MESSAGE value="trying to understand vector dot produts and placeholders" />
-    <option name="LAST_COMMIT_MESSAGE" value="trying to understand vector dot produts and placeholders" />
+    <MESSAGE value="Finished MP, moving on." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished MP, moving on." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
